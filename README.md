@@ -1,6 +1,6 @@
 # TVD
 # "DOWNLOAD TVD.rar FILE TO VIEW COMPLETE CODE"
-TVD is abbreviation for Traffic Violation Detector. TVD aims at finding two types of traffic violations that are:
+TVD is abbreviation for Traffic Violation Detector. TVD has been built in "Google Colaboratory" in Python language. This project aims at finding two types of traffic violations that are:
 
 Driving on the Footpath.
 Driving in the Wrong Lane.
